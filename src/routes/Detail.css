@@ -1,0 +1,14 @@
+.movie__title {
+  font-weight: 300;
+  font-size: x-large;
+  margin-bottom: 25px;
+}
+
+.container {
+  margin-left: 30px;
+}
+
+.movie__detail {
+  height: auto;
+  width: 640px;
+}

@@ -30,7 +30,7 @@ class Home extends React.Component {
       <section className="container">
         {isLoading ? (
           <div className="loader">
-            <span className="loader___text"></span>
+            <span className="loader___text">Loading...</span>
           </div>
         ) : (
           <div className="movies">
